@@ -4,7 +4,7 @@ This project demonstrates a variety of conversion techniques in Python, e.g. tem
 
 ### Temperature conversion
 
-This script performs temperature conversion between Celsius, Fahrenheit and Kelvin scales. The conversion is possible between all 3 scales as the code allows interaction between each set of pairs. The conversion is done with set values but also allows user input for values and desired scales.
+This script performs temperature conversion between *Celsius, Fahrenheit* and *Kelvin* scales. The conversion is possible between all 3 scales as the code allows interaction between each set of pairs. The conversion is done with set values but also allows user input for values and desired scales.
 
 ### Unit conversion
 
